@@ -9,7 +9,7 @@
 <p align="center">
   <a href="https://radyelkasas.com/"><img src="https://img.shields.io/badge/Portfolio-radyelkasas.com-7c5cff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
   <a href="https://linkedin.com/in/radyelkasas"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:hello@radyelkasas.com"><img src="https://img.shields.io/badge/Email-hello%40radyelkasas.com-22d3ee?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
+  <a href="mailto:hello@radyelkasas.com"><img src="https://img.shields.io/badge/Email-Say_hello-22d3ee?style=for-the-badge&logo=maildotru&logoColor=white" alt="Email"></a>
   <a href="https://behance.net/radyeg"><img src="https://img.shields.io/badge/Behance-Designs-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a>
 </p>
 
