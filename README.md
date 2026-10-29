@@ -92,4 +92,3 @@ cd qa-scout && ./install.sh
 Have a product idea, a SaaS to launch or a team that needs a full-stack developer?
 **[hello@radyelkasas.com](mailto:hello@radyelkasas.com)** · [radyelkasas.com](https://radyelkasas.com/) · [LinkedIn](https://linkedin.com/in/radyelkasas)
 
-<p align="center"><img src="https://komarev.com/ghpvc/?username=radyelkasas&style=flat-square&color=7c5cff&label=Profile+views" alt="Profile views"></p>
